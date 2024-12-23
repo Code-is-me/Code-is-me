@@ -1,29 +1,39 @@
-## Hi there 👋
-My name is Hassan I am 22 years old. I'm a student  majoring  in Software Engineering Inspired me to become a Game dev and to work in the Game Industry and willing to take an internship in a game start-up 🎮 
+Here's a revised version of your GitHub profile content in markdown format:
 
+**Hi there 👋**
+================
 
-<!--**Code-is-me/Code-is-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+Hi, I'm Hassan, a 22-year-old software engineering student with a passion for game development. I've gained hands-on experience with C# and GDScripting, and I'm excited to apply my skills to create engaging gaming experiences. What drives me is the opportunity to combine art, storytelling, and technology to craft immersive worlds. As a student, I'm eager to learn from experienced professionals and take on new challenges. I'm looking for an internship at a game start-up where I can grow as a developer and contribute to innovative projects. Let's connect and explore the world of game development together!
 
+**About Me**
+------------
 
-- 🔭 I’m currently Studying in IPB University📚
-- 🌱 I’m currently learning
-      - GDscript
-      - Laravel
-      - C
-  
-- 👯 I’m looking to collaborate on Game development and internship opportunities in Game dev/Start-Up
-  
-- 🤔 I’m looking for help with Tech Career in writing more efficient code and developing games
-  
-- 💬 Ask me about the Game Engines I have used and Applications I have made throughout my Game dev journey
-  
-- 📫 How to reach me:
-      - [LinkedIn](https://www.linkedin.com/in/hassan-nasrallah-matouq-124a771b0/)
-      - [Instagram](https://www.instagram.com/foryou_tocode)
-- 😄 Pronouns: Robot/CS
-  
-- ⚡ Fun fact:
-      - I can Speak 3 Languages Arabic-English-Indonesian
-      - I can use Blender With an overall experience of 1 month as a Game asset Designer and am willing to learn more about game dev 
-  
-    
+* **Education**: Currently studying at IPB University 📚
+* **Learning**: Currently learning GDscript, Laravel, and C
+
+**Collaboration**
+----------------
+
+* I'm looking to collaborate on game development and internship opportunities in game dev/start-up
+
+**Help Wanted**
+--------------
+
+* I'm looking for help with a tech career in writing more efficient code and developing games
+
+**Ask Me About**
+----------------
+
+* The game engines I've used and applications I've made throughout my game dev journey
+
+**Get in Touch**
+----------------
+
+* [LinkedIn](https://www.linkedin.com/in/hassan-nasrallah-matouq-124a771b0/)
+* [Instagram](https://www.instagram.com/foryou_tocode)
+
+**Fun Facts**
+--------------
+
+* I can speak 3 languages: Arabic, English, and Indonesian
+* I have experience with Blender, with an overall experience of 1 month as a game asset designer, and I'm willing to learn more about game dev
