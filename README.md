@@ -10,7 +10,7 @@ Hi, I'm Hassan, a 23-year-old software engineering student with a passion for ga
 **About Me**
 ------------
 
-* **Education**: Currently studying at **IPB University** 📚
+* **Education**: Currently studying at * **IPB University** 📚
 <br>
 * **Learning**: Currently learning GDscript, Laravel, and C
 
