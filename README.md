@@ -2,6 +2,8 @@
 
 **Hi there I'm Hassan Nasrallah Matouq👋**
 ================
+![Codeisme](img/header.png)
+
 ![the rock](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN6bnRrYmRucnZkeHNvOTc3MWZrc21tNGMzN2ZnYXdiaGthNWxicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ls6ahtmYHU760/giphy.gif) ![Rizz](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhtZG94aTEyZmlkNHM2emNzem44dWV4Mnc3bmFxeGcxMHdtMXd2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPHgtwOWk7xwta52n2/giphy.gif)
 
 ---
@@ -13,7 +15,7 @@ Hi, I'm Hassan, a 23-year-old software engineering student with a passion for ga
 * **Education**: Currently studying at * **IPB University** 📚
 <br>
 
-* **Learning**: Currently learning GDscript, Laravel, and C
+* **Learning**: Currently learning **GDscript**, **Python**, and **C**
 
 **Collaboration**
 ----------------
