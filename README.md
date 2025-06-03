@@ -12,7 +12,12 @@ Hi, I'm Hassan, a 23-year-old software engineering student with a passion for ga
 **About Me**
 ------------
 
-* **Education**: Currently studying at * **IPB University** 📚
+## What I'm currently working on:
+I'm developing a [e.g., 2D platformer, roguelike, visual novel] using [e.g., Godot Engine, Unity, Pygame, C++ with SFML]. My goal is to create a [brief description of game idea, e.g., fun and challenging experience for players, a narrative-driven adventure].
+
+
+
+* **Education**: Currently studying at  **IPB University** 📚
 <br>
 
 * **Learning**: Currently learning **GDscript**, **Python**, and **C**
