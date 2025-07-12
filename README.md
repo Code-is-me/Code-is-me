@@ -2,7 +2,10 @@
 
 **Hi there I'm Hassan Nasrallah Matouq👋**
 ================
-![Codeisme](newbanner.png)
+<div align="center">
+  <img src="newbanner.png" alt="Codeisme Banner">
+</div>
+
 
 
 
