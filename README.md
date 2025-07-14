@@ -52,4 +52,4 @@ I'm developing a 2D Survival Horror Multiplayer Game using Godot Game Engine. My
 > **I can speak 3 languages: Arabic, English, and Indonesian**
 * I have experience with Blender, with an overall experience of 1 month as a game asset designer, and I'm willing to learn more about game dev
 
-- I'm Currently working on my [**Javascript Game Portofolio**](https://github.com/Code-is-me)
+- I'm Currently working on my [**Javascript Game Portofolio**](https://code-is-me.github.io/)
