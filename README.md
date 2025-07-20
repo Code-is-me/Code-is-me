@@ -16,7 +16,7 @@ Hi, I'm Hassan, a 23-year-old software engineering student with a passion for ga
 ------------
 
 ## What I'm currently working on:
-I'm developing a 2D Survival Horror Multiplayer Game using Godot Game Engine. My goal is to create a My first Multiplayer Game on Godot engine Engine from Scartch.
+I'm developing a 2D Survival Horror Multiplayer Game using the Godot Game Engine. My goal is to create my first Multiplayer Game on the Godot Engine from Scratch.
 
 
 
@@ -50,6 +50,7 @@ I'm developing a 2D Survival Horror Multiplayer Game using Godot Game Engine. My
 --------------
 
 > **I can speak 3 languages: Arabic, English, and Indonesian**
+
 * I have experience with Blender, with an overall experience of 1 month as a game asset designer, and I'm willing to learn more about game dev
 
 - I'm Currently working on my [**Javascript Game Portofolio**](https://code-is-me.github.io/)
