@@ -16,14 +16,14 @@ Hi, I'm Hassan, a 23-year-old software engineering student with a passion for ga
 ------------
 
 ## What I'm currently working on:
-I'm developing a 2D Survival Horror Multiplayer Game using the Godot Game Engine. My goal is to create my first Multiplayer Game on the Godot Engine from Scratch.
+I'm developing a 2D Survival Horror Multiplayer Game using the Godot Game Engine. My goal is to create my first Multiplayer Game on the Godot Engine from scratch.
 
 
 
 * **Education**: Currently studying at  **IPB University** 📚
 <br>
 
-* **Learning**: Currently learning **GDscript**, **Python**, and **C**
+* **Learning**: Currently learning **GDScript**, **Python**, and **C**
 
 **Collaboration**
 ----------------
